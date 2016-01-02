@@ -1,5 +1,5 @@
 /*
- * This piece code is to calculate exponentiation by tree
+ * This piece code is to calculate exponentiation by tree which is significantly more efficient way to calculate exponentiation (O(log2n))
  */
 
 package cs2020.ps1.pkg1;
